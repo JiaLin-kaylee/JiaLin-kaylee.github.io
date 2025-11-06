@@ -4,12 +4,15 @@ The code he wrote was to make the robotics arm pick up Jenga blocks. It was fair
 code so the robotic arm can pick up the blocks, spaced one post-it note apart when the table is turned a certain way. (
 If the table was turned a little off or the post-its weren't stuck on at the right spot, the code wouldn't work.
 Here is a picture/sample of our code:
+
 <img width="370" height="584" alt="Screenshot 2025-11-05 at 16 35 59" src="https://github.com/user-attachments/assets/567cb1b8-6415-4362-8a09-696754e1d3f7" />
+
 So after playing with some silly block codes (written by seniors from last year) and crashing out about how basic the current code was, we decided to upgrade our plan. I had the 
 idea of playing with the vision on the arm, I know a great app that detects objects, after you train the model to recognize the blocks/objects, and improves robotic arm accuracy.
 Not long after I proposed the idea, we found that it might not work, so we just scrapped the plan and started to use aprilcodes. 
 Here are pictures of these things:
-<img width="486" height="615" alt="Screenshot 2025-11-05 at 16 39 53" src="https://github.com/user-attachments/assets/9a2bf5a3-3cda-4da7-8f22-9e013261b75b" /><img width="500" height="650" alt="Screenshot 2025-11-05 at 16 40 09" src="https://github.com/user-attachments/assets/cc302d47-277a-448a-bf72-8dddc6014742" />
+<img width="486" height="615" alt="Screenshot 2025-11-05 at 16 39 53" src="https://github.com/user-attachments/assets/9a2bf5a3-3cda-4da7-8f22-9e013261b75b" />
+<img width="500" height="650" alt="Screenshot 2025-11-05 at 16 40 09" src="https://github.com/user-attachments/assets/cc302d47-277a-448a-bf72-8dddc6014742" />
 We didn't completely finish making a code for the robotic arm to detect the aprilcodes, but I know I definitley learned a lot from the websites Thomas told me to look at.
 Here's a break down of what I learned:
 1) AprilTags are square markers that help computers detect object position, distance, and orientation in image
