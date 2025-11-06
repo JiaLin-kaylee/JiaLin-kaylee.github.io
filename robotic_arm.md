@@ -24,8 +24,9 @@ https://april.eecs.umich.edu/papers/details.php?name=olson2011tags
 
 So after what I've discovered I think I should also include a basic run down of a robotic arm!
 1) usually a machine used in factories for precision and accuracy of placing and creating items
-2) originated from the Renaissance period where DaVinci created the MechaKnight (improved in 1950'2-1960's industrial period) now it is highly similar in structure to that of a human arm
-3) Now students like me and Thomas can help you guys make the tool become more accesible (I will be telling you guys what controls what and how soon...)
+2) originated from the Renaissance period where DaVinci created the MechaKnight (improved in 1950s to 1960s industrial period)
+3) Nowadays, it is highly similar in structure to that of a human arm and can perform similar tasks to that of a human arm.
+4) Now students like me and Thomas can help you guys make the tool become more accesible (I will be telling you guys what controls what and how soon...)
 
 <img width="1058" height="583" alt="Screenshot 2025-11-05 at 16 51 18" src="https://github.com/user-attachments/assets/bc55f841-baeb-4646-a049-5c4aafc451f6" />
 
