@@ -50,6 +50,9 @@ The progress made so far has laid the groundwork for the eventual assembly of th
 
 **Timeline Overall**
 
+
+I really think that I'm completely new to developing any software so I am definitle one of the people who are struggling more, what motivates me every day is thinking about drinking boba at the end of the week and having a completed 3D printer soon.
+
 ***spat out by my WebbGPT and refined by me
 🛠 Roadmap to Assembly
 1.	Sensor Integration
@@ -78,7 +81,27 @@ o	Document the build process and improvements for future iterations.
 
 
 
+**REFLECTION**
+The personal, emotional journey:
+
+**How did you feel**
+Since I am pretty new to building with more advanced parts like arduino. I think being scared and ashamed  is how people feel when they step out of their box, but
+sometimes I feel like I'm not always seen in the class due to my lack of knowledge on some parts of the class, but I'm trying to adapt
+because I can't make everyone adapt to me.
+
+
+**How did these feelings change as you encountered challenges and made progress?**
+As I started making some progress, I think I tried my best to feel that I made a bit of progress. It's hard tp convince myself that I'm a lot
+better than I started off with.I guess the reason why I feel this way is because I haven't started building because that's the only part I feel comfortable with. But, stepping out into the open is also very cool and I am learning to go with the flow even though the river is flowing really fast.
+
+
+**How do these feelings relate to your journey of discovery?**
+These feeling are building up... and stepping out of the norm means instant discovery, so I'm nervous but excited! Every time I feel stressed or uncomfortable, I usually end up with really good results and something new to add to my life story.
+
 Yay so that's it for now, I will continue adding all my progress I promise!!
 
 Journal Entry 1: November 12, 2025
+
+here's a flower for you, thanks for reading.
+![IMG_4483](https://github.com/user-attachments/assets/c5eb827b-2e7a-4b59-8c01-425bb8cbff8a)
 
