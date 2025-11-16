@@ -13,19 +13,15 @@ like Dr. Dzula and Mr. Raus. The materials? We currently have an arduino, breadb
 
 **Problems+Progress**
 
-1) Currently we have a running code that detects voltage and bits, but it cannot detect distances. I realized that neither me or my partner really knows how to code, so we are currently
-relying on WebbGPT and Mr. Raus. We did have some trouble connecting the distance sensor to the breadboard, then to the arduino. You need to really focus on cutting your unstripped wires
-so you don't cut off the entire tip of the wire. That was a problem we ran into a few times. Another issue we ran into was attaching the wires to the breadboard. (you first have to connect
-the wires to the sensor, then to the breadboard, then to the arduino, then to the computer, then do your code)We realized that we need to have the tip of the wires about 0.5 cm long in
-order to attach it properly into the breadboard. 
+1) Currently we have a running code that detects voltage and bits, but it cannot detect distances. I realized that neither me or my partner really knows how to code, so we are currently relying on WebbGPT and Mr. Raus. We did have some trouble connecting the distance sensor to the breadboard, then to the arduino. You need to really focus on cutting your unstripped wires so you don't cut off the entire tip of the wire. That was a problem we ran into a few times. Another issue we ran into was attaching the wires to the breadboard. (first you have to connect the wires to the sensor, then to the breadboard, then to the arduino, then to the computer, then do your code)We realized that we need to have the tip of the wires about 0.5 cm long in order to attach it properly into the breadboard. 
 
 
-
-2) Breadboard Intro: there are two sides that are red and blue, this means that the currents can run through the whole entire column, but the center where there is not a blue or red 
+2) Breadboard Intro: there are two sides that are red and blue, this means that the currents can run through the whole entire column, but the center where there is not a blue or red  
 line, it just means that each mini row of 5 are connected, for our 3D printer we need connect the black and red wire into any random row of 5 on the breadboard, seperate ofcourse,
 the white wire will be used to measure voltage then connected into the Arduino, I mean the rest of the wires will be too, but that is more or less important)
 
 <img width="541" height="320" alt="Screenshot 2025-11-12 at 19 50 39" src="https://github.com/user-attachments/assets/7ca9bb03-9ed3-4497-8d6c-f534d9354b97" />
+
 
 3) The next step would be to measure accurate distances, I already have a graph for approximately what it should look like above. Also a code that I am not completely sure would work
    but I guess that's part of the process.
@@ -33,12 +29,16 @@ the white wire will be used to measure voltage then connected into the Arduino, 
    <img width="711" height="504" alt="Screenshot 2025-11-12 at 19 51 55" src="https://github.com/user-attachments/assets/2f2617c0-722b-485e-8680-2db27f7f7bcf" />
    <img width="703" height="533" alt="Screenshot 2025-11-12 at 19 53 12" src="https://github.com/user-attachments/assets/993c4899-37ef-423f-9cf8-27a39141be0e" />
 
-
+4) After the distance measuring, we need to think about how we can get the servos and steppers moving. Servos and Steppers allow movement of the sensor on the X,
+   Y, and Z axes. This means you can measure/scan the object before printing.
+   ![IMG_4604](https://github.com/user-attachments/assets/89f834aa-99a1-45c5-8b1d-6105b005ed8a)
 **Goals**
 
 1) To completely finish measuring distance and add it to the code (by next class)
-2) get parts to assemble printer (my favorite) (next next class??)
-3) present to audience/inform Webb and classmates (end of semester)
+2) have smooth (rotational)  movement of sensor moving in X, Y, and Z axes.
+
+3) get parts to assemble printer (my favorite)
+4) present to audience/inform Webb and classmates (end of semester)
 
 
 
@@ -51,31 +51,33 @@ The progress made so far has laid the groundwork for the eventual assembly of th
 **Timeline Overall**
 
 
-I really think that I'm completely new to developing any software so I am definitle one of the people who are struggling more, what motivates me every day is thinking about drinking boba at the end of the week and having a completed 3D printer soon.
+I really think that I'm completely new to developing any software so I am definitley one of the people who are struggling more, what motivates me every day is thinking about drinking boba at the end of the week and having a completed 3D printer soon.
 
-***spat out by my WebbGPT and refined by me
+
 🛠 Roadmap to Assembly
 1.	Sensor Integration
 o	Add sensors to measure distances and voltge accurately.
-2.	Frame Construction
+- make sure that servos and steppers are spinning
+- testing to make sure that object detection is possible in X,Y, and Z axes.
+3.	Frame Construction (should be after step 4)
 o	Build or source a sturdy frame to hold all components.
 o	Ensure alignment for smooth movement along X, Y, and Z axes.
-3.	Motion System Setup
+4.	Motion System Setup
 o	Install stepper motors and drivers.
 o	Connect belts, pulleys, or lead screws for precise axis control.
-4.	Electronics Assembly
+5.	Electronics Assembly
 o	Mount the Arduino (or upgrade to a more powerful controller).
 o	Wire sensors, motors, and power supply neatly onto the breadboard or PCB.
-5.	Software Development
+6.	Software Development
 o	Write or adapt firmware to control motors based on sensor input.
 o	Test calibration routines for accuracy in movement and extrusion.
-6.	Extruder & Print Bed Installation
+7.	Extruder & Print Bed Installation
 o	Attach the extruder for filament feeding.
 o	Set up a heated bed or platform for stable prints.
-7.	Testing & Calibration
+8.	Testing & Calibration
 o	Run test prints to check accuracy.
 o	Adjust motor steps, bed leveling, and sensor thresholds.
-8.	Final Assembly & Refinement
+9.	Final Assembly & Refinement
 o	Secure all components.
 o	Document the build process and improvements for future iterations.
 
@@ -96,7 +98,7 @@ better than I started off with.I guess the reason why I feel this way is because
 
 
 **How do these feelings relate to your journey of discovery?**
-These feeling are building up... and stepping out of the norm means instant discovery, so I'm nervous but excited! Every time I feel stressed or uncomfortable, I usually end up with really good results and something new to add to my life story.
+These feeling are building up... and stepping out of the norm means instant discovery, so I'm nervous but excited! Every time I feel stressed or uncomfortable, I usually end up with really good results and something new to add to my story.
 
 Yay so that's it for now, I will continue adding all my progress I promise!!
 
