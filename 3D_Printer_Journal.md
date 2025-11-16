@@ -9,6 +9,8 @@ You might ask: "building a 3D Printer is so complicated, how can high school stu
 like Dr. Dzula and Mr. Raus. The materials? We currently have an arduino, breadboard, some wires, a distance/voltage sensor...That's about it for now actually.
 
 ![IMG_4487](https://github.com/user-attachments/assets/5fdb9984-43ae-40a6-bbd7-18dd139f0417)
+Update: We actaully have servos and steppers now!!!!
+![IMG_4605](https://github.com/user-attachments/assets/583b18da-0eec-49ba-bacc-4646b38e3a93)
 
 
 **Problems+Progress**
@@ -32,20 +34,22 @@ the white wire will be used to measure voltage then connected into the Arduino, 
 4) After the distance measuring, we need to think about how we can get the servos and steppers moving. Servos and Steppers allow movement of the sensor on the X,
    Y, and Z axes. This means you can measure/scan the object before printing.
    ![IMG_4604](https://github.com/user-attachments/assets/89f834aa-99a1-45c5-8b1d-6105b005ed8a)
+
+
 **Goals**
 
 1) To completely finish measuring distance and add it to the code (by next class)
-2) have smooth (rotational)  movement of sensor moving in X, Y, and Z axes.
-
-3) get parts to assemble printer (my favorite)
-4) present to audience/inform Webb and classmates (end of semester)
+3) have smooth (rotational)  movement of sensor moving in X, Y, and Z axes.
+4) get parts to assemble printer (my favorite)
+5) present to audience/inform Webb and classmates (end of semester) YAY
 
 
 
 **Current Conclusion+Future Plans**
 
-The progress made so far has laid the groundwork for the eventual assembly of the 3D printer. Moving forward, the focus will shift from data detection experiments to the integration of mechanical and electronic components. This will involve selecting and installing appropriate sensors for precise distance measurement, designing the frame and motion system, and connecting stepper motors for controlled movement. Once the hardware is assembled, the next stage will be refining the software to synchronize sensor inputs with motor outputs, ensuring accurate calibration and reliable printing. By steadily combining these elements, the project will transition from a series of experiments into a fully functioning 3D printer, demonstrating the practical application of innovation and persistence.
+1) The progress made so far has laid the groundwork for the eventual assembly of the 3D printer. Moving forward, the focus will shift from data detection experiments to the integration of mechanical and electronic components. This will involve selecting and installing appropriate sensors for precise distance measurement, designing the frame and motion system, and connecting stepper motors for controlled movement. Once the hardware is assembled, the next stage will be refining the software to synchronize sensor inputs with motor outputs, ensuring accurate calibration and reliable printing. By steadily combining these elements, the project will transition from a series of experiments into a fully functioning 3D printer, demonstrating the practical application of innovation and persistence.
 
+2) Continuing my last conclusion, me and Kano worked on getting the steppers and servos to move. Shout out to Thomas for sending a ChatGPT generated code that actually worked! I cannot thank him enough for saving me so much time.
 
 
 **Timeline Overall**
