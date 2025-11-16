@@ -101,8 +101,10 @@ Since I am pretty new to building with more advanced parts like arduino. I think
 **How did these feelings change as you encountered challenges and made progress?**
 
 
-As I started making some progress, I think I tried my best to feel that I am learning. It's hard tp convince myself that I'm a lot
+As I started making some progress, I think I tried my best to feel that I am learning. It's hard to convince myself that I'm a lot
 better than I started off with. I guess the reason why I feel this way is because I haven't started building because that's the only part I feel comfortable with. But, stepping out into the open is also very cool and I am learning to go with the flow even though the river is flowing really fast.
+
+I think I've faced many challenges, the first one is learning how to code. This is a working progress and I am absolutley terrible at it, but I am being encouraged to keep on working hard. This motivation really kept me going. The second, being unfamiliarity to the new materials. I've only done so much with arduinos and breadboards, I don't know much about them. The only robotic parts I am familiar with are anythinng FTC or Vex related.
 
 
 **How do these feelings relate to your journey of discovery?**
