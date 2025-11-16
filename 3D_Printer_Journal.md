@@ -104,6 +104,7 @@ Yay so that's it for now, I will continue adding all my progress I promise!!
 
 Journal Entry 1: November 12, 2025
 
-here's a flower for you, thanks for reading.
-![IMG_4483](https://github.com/user-attachments/assets/c5eb827b-2e7a-4b59-8c01-425bb8cbff8a)
+thanks for reading.
+<img width="515" height="248" alt="Screenshot 2025-11-16 at 10 50 48" src="https://github.com/user-attachments/assets/4d8bf984-ed8e-4143-b6cb-d83640c591a3" />
+
 
