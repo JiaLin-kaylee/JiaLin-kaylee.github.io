@@ -91,18 +91,16 @@ o	Document the build process and improvements for future iterations.
 The personal, emotional journey:
 
 **How did you feel**
-Since I am pretty new to building with more advanced parts like arduino. I think being scared and ashamed  is how people feel when they step out of their box, but
-sometimes I feel like I'm not always seen in the class due to my lack of knowledge on some parts of the class, but I'm trying to adapt
-because I can't make everyone adapt to me.
+Since I am pretty new to building with more advanced parts like arduino. I think being scared and ashamed  is how people feel when they step out of their box. Due to my lack of knowledge on most parts we are building with, I feel like I am behind, or lacking.
 
 
 **How did these feelings change as you encountered challenges and made progress?**
-As I started making some progress, I think I tried my best to feel that I made a bit of progress. It's hard tp convince myself that I'm a lot
-better than I started off with.I guess the reason why I feel this way is because I haven't started building because that's the only part I feel comfortable with. But, stepping out into the open is also very cool and I am learning to go with the flow even though the river is flowing really fast.
+As I started making some progress, I think I tried my best to feel that I am learning. It's hard tp convince myself that I'm a lot
+better than I started off with. I guess the reason why I feel this way is because I haven't started building because that's the only part I feel comfortable with. But, stepping out into the open is also very cool and I am learning to go with the flow even though the river is flowing really fast.
 
 
 **How do these feelings relate to your journey of discovery?**
-These feeling are building up... and stepping out of the norm means instant discovery, so I'm nervous but excited! Every time I feel stressed or uncomfortable, I usually end up with really good results and something new to add to my story.
+These feeling of discovery and excitement are building up... and stepping out of the norm means instant discovery, so I'm nervous and excited! Every time I feel stressed or uncomfortable, I usually end up with really good results and something new to add to my journal. Cannot wait to put together the whole printer!!
 
 Yay so that's it for now, I will continue adding all my progress I promise!!
 
