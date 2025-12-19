@@ -44,3 +44,8 @@ when you are feeling hopeless, it's good to ask yourself questions, for example 
 **Do you feel confident in your abilities to improve?**
 
 If I said no to all of these, I would go and ask for help, look for errors, and find areas I should improve on emotionally.
+
+**SPECIAL SHOUT OUT**
+
+To my partner Kano:
+If you ever read this, I just want to thank you so much for cadding everything. Without you I would have failed in even getting everything mehanically attached. Thank you for being my other half on this long and tracherous journey.
