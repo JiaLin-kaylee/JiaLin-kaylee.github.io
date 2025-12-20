@@ -17,6 +17,9 @@ My materials are VS code and Arduino IDE. Also, the extension cable, and MAYBE a
 <img width="1469" height="799" alt="Screenshot 2025-12-17 at 11 12 55" src="https://github.com/user-attachments/assets/200bca78-71a4-46e3-9847-9ea4c13d5047" />
 
 I was able to get everything to move and read. But, I faced a lot of challenges, I didn't know how to code and I sadly had to search up how to code and ask WebbGPT to do some editing for me. It was complicated, but in the end it worked. I want all readers to take this away: even though you may be suffering in the beginning, in the end the suffering will produce a result so good that you would forget you ever suffered.
+<img width="601" height="500" alt="Screenshot 2025-12-18 at 09 43 32" src="https://github.com/user-attachments/assets/16f0ed4f-3e52-4270-9a01-daea128fd298" />
+
+I hope you like the cat that my corrected and working code made!
 
 **PERSONAL+EMOTIONAL JOURNEY**
 
