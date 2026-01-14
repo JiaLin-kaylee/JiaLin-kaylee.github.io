@@ -28,6 +28,8 @@ ________________________________________________________________________________
 - make a machine that makes annoying noises whenver she forgets to stay on task
 - built-in clock on her phone that sends her notifications until she does her work.
 
+![IMG_4748](https://github.com/user-attachments/assets/f7abd9a3-f394-436a-855d-37052968b41d)
+
 _________________________________________________________________________________________________________________________________________________________
 
 **Day 3**
