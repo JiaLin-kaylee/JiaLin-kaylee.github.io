@@ -70,5 +70,6 @@ Condensing
 <img width="500" height="500" alt="Copilot_20260113_191133" src="https://github.com/user-attachments/assets/9e2d8b3f-fa38-4b19-b373-dca816abab25" />
 
 
+Here is the finished agent, I have tested this a couple of times and it also sends a buch of reminders to your email.
 
 <script src='https://www.noupe.com/embed/019bbd5e36cd75e79122267e7e616a9a4d1c.js'></script>
