@@ -1,5 +1,8 @@
 **Day 1**
 
+**WHO??**
+
+
 **Vivian: I have trouble keeping track of assignments and managing my time, so a tech tool that combines reminders and planning would really help.**
 
 
@@ -49,7 +52,7 @@ CONDENSING
 
 **MOTIVATING QUESTION**
 
-"How can I make an effective and accessible chatbot to help with schedule."
+"How can I make AN effective and accessible THING to help with schedule."
 
 
 **WIDGET APP**
@@ -91,6 +94,20 @@ ________________________________________________________________________________
 
 **Day 4 and Beyond**
 
+**CHALLENGE**
+
+Balancing user needs with technical limitations: Vivian might want features that are hard to build or require tools you haven’t learned yet.
+Designing reminders that help without overwhelming: Too many notifications can annoy users; too few won’t change behavior.
+Keeping the chatbot accurate and responsive: Logic errors, timing issues, or unclear prompts can make the bot behave unpredictably.
+Motivating consistent use over time: The tool works only if Vivian actually uses it, which means the design must feel rewarding, not like extra work.
+Testing with different users and adjusting: Feedback from your mom, yourself, and Vivian may conflict, so you have to decide what to prioritize.
+Managing distractions and workflow during development: Building a tool meant to reduce distraction can ironically be distracting for you as the creator.
+________________________________________________________________________________________________________________________________________
+
+**FUTURE PLANS**
+
+Mr. Raus sent me a link for a USC project and I've been looking into it a lot. I really want to do more hardware so the future plan is to relearn how to crochet and make a Blossom bot!.
+________________________________________________________________________________________________________________________________________
 
 
 **Tester 1: Myself**
@@ -119,3 +136,8 @@ She enjoyed the robot quite a lot!
 <img width="660" height="1434" alt="IMG_1580" src="https://github.com/user-attachments/assets/ebe10a57-0676-4eaf-944e-8bb8901ca3a3" />
 
 
+___________________________________________________________________________________________________________________________
+
+**REFLECTION**
+
+This project showed me how a simple idea—helping Vivian stay organized—could grow into a full, functional tool that actually supports someone’s daily life. Building the chatbot pushed me to think about real user needs, not just features, and testing it with different people helped me refine how it communicates. Watching Vivian enjoy it made the whole process feel meaningful, because it proved that thoughtful design can genuinely make someone’s routine easier. Overall, this experience strengthened my confidence in creating tech that blends practicality, empathy, and a little bit of fun.
