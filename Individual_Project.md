@@ -73,3 +73,35 @@ Condensing
 Here is the finished agent, I have tested this a couple of times and it also sends a buch of reminders to your email.
 
 <script src='https://www.noupe.com/embed/019bbd5e36cd75e79122267e7e616a9a4d1c.js'></script>
+__________________________________________________________________________________________________________________________________
+
+**Day 4 and Beyond**
+
+
+
+**Tester 1: Myself**
+
+I asked the chatbot multiple questions and it seemed to respond to me pretty well, here are some pictures.
+
+<img width="400" height="502" alt="Screenshot 2026-01-19 at 20 11 09" src="https://github.com/user-attachments/assets/ac2860b3-7d95-4cc1-81bc-782dc423cc7f" /><img width="383" height="389" alt="Screenshot 2026-01-19 at 20 11 21" src="https://github.com/user-attachments/assets/37023c5d-0d3b-44c8-9963-26836470f19e" />
+
+
+
+**Tester 2: My mother**
+
+
+<img width="660" height="1434" alt="IMG_4547" src="https://github.com/user-attachments/assets/2571ea61-0617-4088-a352-f9c58b61c7bd" />
+<img width="660" height="1434" alt="IMG_4572" src="https://github.com/user-attachments/assets/31b8b860-8d55-45fb-8d1b-4330e4d004e1" />
+
+She thought it was funny that I made this. But it also seemed to be responding quite well.
+
+
+**Final Tester: Vivian**
+
+She enjoyed the robot quite a lot!
+
+![IMG_1576](https://github.com/user-attachments/assets/3f898733-5984-429d-b368-1ac52c95b51d)
+<img width="660" height="1434" alt="IMG_1579" src="https://github.com/user-attachments/assets/b56d16ca-c9be-4828-863b-e30d8e7224f5" />
+<img width="660" height="1434" alt="IMG_1580" src="https://github.com/user-attachments/assets/ebe10a57-0676-4eaf-944e-8bb8901ca3a3" />
+
+
