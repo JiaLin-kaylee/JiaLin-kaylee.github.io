@@ -94,6 +94,7 @@ ________________________________________________________________________________
 
 **Day 4 and Beyond**
 
+
 **CHALLENGE**
 
 Balancing user needs with technical limitations: Vivian might want features that are hard to build or require tools you haven’t learned yet.
@@ -102,6 +103,14 @@ Keeping the chatbot accurate and responsive: Logic errors, timing issues, or unc
 Motivating consistent use over time: The tool works only if Vivian actually uses it, which means the design must feel rewarding, not like extra work.
 Testing with different users and adjusting: Feedback from your mom, yourself, and Vivian may conflict, so you have to decide what to prioritize.
 Managing distractions and workflow during development: Building a tool meant to reduce distraction can ironically be distracting for you as the creator.
+
+
+**STEPS:**
+
+<img width="1433" height="748" alt="Screenshot 2026-01-20 at 13 37 19" src="https://github.com/user-attachments/assets/2327dfa0-d124-4b77-8e03-a2c15b6b39fb" />
+<img width="1442" height="727" alt="Screenshot 2026-01-20 at 13 40 48" src="https://github.com/user-attachments/assets/7033606c-b7c1-424c-bd66-a3a843b43173" />
+<img width="1458" height="688" alt="Screenshot 2026-01-20 at 13 41 08" src="https://github.com/user-attachments/assets/1a3c1940-e551-46fa-9010-c4c455d0bd32" />
+
 ________________________________________________________________________________________________________________________________________
 
 **FUTURE PLANS**
@@ -141,3 +150,29 @@ ________________________________________________________________________________
 **REFLECTION**
 
 This project showed me how a simple idea—helping Vivian stay organized—could grow into a full, functional tool that actually supports someone’s daily life. Building the chatbot pushed me to think about real user needs, not just features, and testing it with different people helped me refine how it communicates. Watching Vivian enjoy it made the whole process feel meaningful, because it proved that thoughtful design can genuinely make someone’s routine easier. Overall, this experience strengthened my confidence in creating tech that blends practicality, empathy, and a little bit of fun.
+
+Absolutely — here’s a clean, punchy bullet‑point version with clear strengths, growth areas, and what you learned about the process and your stakeholders.
+
+### What I Learned About Myself as an Innovator
+- **I’m good at identifying real user needs** and turning them into
+ features that actually matter.  
+- **I think naturally in systems** — connecting reminders, planning, motivation, and user behavior.  
+- **I need to slow down during development** instead of rushing to build everything at once.  
+- **I’m still growing in balancing ambition with technical limits** and testing more intentionally.
+
+### What I Learned About My Stakeholders
+- **People want tools that feel simple, personal, and non‑overwhelming** rather than complicated productivity systems.  
+- **Small design choices change whether someone actually uses a tool** — tone, timing, layout, and ease of access matter.  
+- **Users respond better when the tool feels friendly** instead of robotic or strict.
+
+### What I Learned About the Design Process
+- **Design is extremely iterative** — every test leads to a new adjustment.  
+- **Feedback from different testers can conflict**, so you have to prioritize what aligns with the core problem.  
+- **Prototyping quickly helps reveal issues early** instead of waiting for a “perfect” version.
+
+### What I Learned About the Technical Side
+- **Building a chatbot requires clear logic and clean prompts** or it behaves unpredictably.  
+- **Automated reminders need careful tuning** so they help without overwhelming the user.  
+- **Testing across multiple users exposes edge cases** you wouldn’t catch on your own.
+
+If you want, I can help you turn this into a shorter version, a rubric‑aligned version, or a more polished final submission.
