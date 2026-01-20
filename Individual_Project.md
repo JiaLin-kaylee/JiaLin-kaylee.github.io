@@ -110,6 +110,7 @@ Managing distractions and workflow during development: Building a tool meant to 
 <img width="1433" height="748" alt="Screenshot 2026-01-20 at 13 37 19" src="https://github.com/user-attachments/assets/2327dfa0-d124-4b77-8e03-a2c15b6b39fb" />
 <img width="1442" height="727" alt="Screenshot 2026-01-20 at 13 40 48" src="https://github.com/user-attachments/assets/7033606c-b7c1-424c-bd66-a3a843b43173" />
 <img width="1458" height="688" alt="Screenshot 2026-01-20 at 13 41 08" src="https://github.com/user-attachments/assets/1a3c1940-e551-46fa-9010-c4c455d0bd32" />
+<img width="1449" height="804" alt="Screenshot 2026-01-20 at 13 44 32" src="https://github.com/user-attachments/assets/3e37e9fb-bccd-4002-a965-1e683d6bc1b9" />
 
 ________________________________________________________________________________________________________________________________________
 
