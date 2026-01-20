@@ -17,15 +17,25 @@ ________________________________________________________________________________
 10 Ideas
 
 - create a widget app that lists out her to-do's
+
 - I can try and remind her daily
+
 - create chatbot with monthly planner
+
 - I'll buy her free crumbl for every month of finished to-do list
+
 - teach her how to use canvas
+
 - gift her a strict Asian mom
+  
 - remind her to do work at school by making her do work while i do work
+
 - if she doesn't do her work, then she cannot attend sports activities
+
 - Do work in the morning in compensation for sleeping earlier (and during free blocks)
+
 - make a machine that makes annoying noises whenver she forgets to stay on task
+
 - built-in clock on her phone that sends her notifications until she does her work.
 
 ![IMG_4748](https://github.com/user-attachments/assets/f7abd9a3-f394-436a-855d-37052968b41d)
@@ -34,8 +44,12 @@ ________________________________________________________________________________
 
 **Day 3**
 
-Condensing
+CONDENSING
 
+
+**MOTIVATING QUESTION**
+
+"How can I make an effective and accessible chatbot to help with schedule."
 
 
 **WIDGET APP**
