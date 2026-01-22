@@ -13,6 +13,30 @@
 -She isn’t used to canvas 
 -Hard to not be tired and do homework
 
+
+What I’ve Noticed About Vivian
+•	She struggles to keep track of assignments: I can tell she genuinely wants to stay on top of her work, but without a clear system, things slip through the cracks. It’s not because she doesn’t care — it’s because she doesn’t have a tool that works the way she works.
+•	Time management is a real challenge for her: Between basketball, volleyball, and everything else happening in her day, she barely gets a moment to breathe, let alone plan out homework.
+•	Sports take up huge chunks of her schedule: Practices, games, and travel time eat into her evenings, leaving her exhausted and with limited time to focus.
+•	School is full of distractors for her: She gets pulled into conversations, noise, and movement around her, which makes it hard for her to start tasks during class.
+•	Canvas isn’t intuitive for her yet: She’s not used to the platform, so she misses assignments or doesn’t know where to look.
+•	She often ends up with no time or energy for homework: By the time she’s free, she’s drained — mentally and physically.
+What I Want to Do for Her
+•	I want to be her reminder person: Not in a nagging way, but in a supportive, “I’ve got your back” way. I want her to feel like someone is helping her stay organized.
+•	I want to build something that actually fits her life: Not a generic planner, not a complicated app — something simple, friendly, and made specifically for the way she moves through her day.
+•	I want her to feel less stressed and more in control: She deserves tools that make her life easier, not heavier.
+What I Think the App Should Include
+•	Smart reminders that adapt to her schedule: If she has practice, the app should automatically suggest earlier start times or break tasks into smaller chunks.
+•	A home screen widget she can’t ignore: Something visual and simple — assignments, due dates, and a “what to do next” box.
+•	Quick-add tasks: So she can jot something down between classes without opening a full app.
+•	A clean, distraction-free interface: No clutter, no overwhelm — just clarity.
+•	Canvas-friendly input: Even if it’s manual, it should be easy for her to copy/paste assignments in.
+•	A daily plan that adjusts automatically: If she’s busy, the app should lighten the load; if she’s free, it can suggest catching up.
+ Why This Matters to Me
+•	I want her to feel supported: She’s juggling so much, and I don’t want her to feel alone in it.
+•	I want the tool to feel like a friend, not a chore: Something that nudges her gently, not something that overwhelms her.
+•	I want her to succeed without burning out: She’s capable — she just needs a system that matches her reality.
+
 ________________________________________________________________________________________________________________________________________________________
 
 **Day 2**
