@@ -4,3 +4,7 @@ Outside of school, I like to play piano, draw, or read new books. As an innovato
 This summer, I was able to work with a lego surgical tool. I learned that to become successful, you need to control and understand the robot, you can't solely rely on the robot doing everything for you.
 My goals this year are: to learn code, become a better innovator, and to be creative
 <img width="584" height="144" alt="Screenshot 2025-09-12 at 3 50 12 PM" src="https://github.com/user-attachments/assets/43cbc664-87f5-4a07-9a12-93645a8dc061" />
+
+
+
+https://webbca-my.sharepoint.com/:p:/r/personal/kayleezhu_webb_org/Documents/SDG%203%20and%2010%20TECH%20SEM.pptx?d=wd863fd9fd3814c0d8cf2f2275ee03dd8&csf=1&web=1&e=R2foq8
