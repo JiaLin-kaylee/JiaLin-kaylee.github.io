@@ -81,4 +81,6 @@ I can help you write each section later.
 
 5. **Conclusion**  
    - Future directions  
-   - Broader impact  
+   - Broader impact
+  
+Lately, I’ve noticed a real shift in how I’m handling everything on my plate. I’m still busy, but I don’t feel that tight, panicked pressure I used to. Breaking my work into smaller steps has made everything feel more manageable, and I’m finally giving myself space to breathe instead of trying to power through everything at once. I’m more organized, more intentional, and more in control. Because of that, the stress that used to sit on my shoulders all day just isn’t hitting the same anymore. I feel lighter, clearer, and more capable — like I can actually handle what’s coming next.
