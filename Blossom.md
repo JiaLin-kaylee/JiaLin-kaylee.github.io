@@ -101,7 +101,6 @@ I decided to add a **sound mechanism** to enhance interaction and grounding. Sou
 
 ### **Questions I want to ask USC faculty**
 - How to smooth servo jitter for slow, organic motion  
-- Best linkage designs for soft robotics  
 - How to design soft bodies that don’t restrict movement  
 - How to integrate sound without overstimulation  
 - How to document iterative prototyping for research-level work  
@@ -112,6 +111,6 @@ I decided to add a **sound mechanism** to enhance interaction and grounding. Sou
 This project is becoming more complex, but also more meaningful. The combination of movement, softness, and sound is starting to form a cohesive character — something that feels alive and supportive. I need to improve my documentation habits so future-me (and USC faculty) can clearly see my engineering decisions, failures, and iterations. The next two weeks will be focused on polishing one movement, building the plush shell, and integrating sound so I have a strong prototype to share on May 13.
 
 ![tools](https://github.com/user-attachments/assets/093a72e2-7dbf-41d0-943c-d7c24dc418b2)
-<img width="4284" height="5712" alt="IMG_6046" src="https://github.com/user-attachments/assets/53b0d288-276f-4491-b3cd-a1efb591024b" />
-<img width="4284" height="5712" alt="IMG_5990" src="https://github.com/user-attachments/assets/9d50c596-f8d4-4cad-8805-5bf52a9a2f58" />
-<img width="974" height="612" alt="Screenshot 2026-05-04 at 16 56 38" src="https://github.com/user-attachments/assets/74526fad-5d32-40f6-8e2f-9bf05a5f9eb0" />
+![stuff](https://github.com/user-attachments/assets/53b0d288-276f-4491-b3cd-a1efb591024b)
+![image](https://github.com/user-attachments/assets/9d50c596-f8d4-4cad-8805-5bf52a9a2f58)
+![last image](https://github.com/user-attachments/assets/74526fad-5d32-40f6-8e2f-9bf05a5f9eb0)
